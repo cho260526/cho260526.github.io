@@ -1,0 +1,12 @@
+baseURL = "https://cho260526.github.io/"
+languageCode = "ko-kr"
+title = "My Portfolio"
+theme = "PaperMod"
+
+googleAnalytics = "G-VWZYV3BDN4"
+
+[params]
+  author = "cho260526"
+  defaultTheme = "light"
+  ShowReadingTime = true
+  ShowShareButtons = true

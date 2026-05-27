@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Portfolio</title>
+    <link>http://localhost:49973/</link>
+    <description>Recent content on My Portfolio</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:49973/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>나의 첫 Hugo 블로그 글</title>
+      <link>http://localhost:49973/posts/first-post/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0900</pubDate>
+      <guid>http://localhost:49973/posts/first-post/</guid>
+      <description>&lt;p&gt;안녕하세요,&lt;/p&gt;
+&lt;p&gt;테스트 작성 중 입니다.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
