@@ -3,9 +3,8 @@ languageCode = "ko-kr"
 title = "My Portfolio"
 theme = "PaperMod"
 
-[services]
-  [services.googleAnalytics]
-    ID = "G-VWZYV3BDN4"
+[services.googleAnalytics]
+   id = "G-VWZYV3BDN4"
 
 [params]
   author = "cho260526"
